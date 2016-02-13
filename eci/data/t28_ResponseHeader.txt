@@ -1,0 +1,39 @@
+HTTP/1.1 200 OK
+X-Backside-Transport: OK OK
+Connection: Keep-Alive
+Transfer-Encoding: chunked
+Server: MIL Server 4.9.1
+Date: Sat, 13 Feb 2016 20:00:18 GMT
+Set-cookie: OTD_CPD=ECI001; path=/; domain=.elcorteingles.es
+Content-type: application/json; charset=UTF-8
+Vary: Cookie
+Access-control-allow-credentials: true
+Server_name_atg: store_sfps_h3
+Access-control-allow-headers: Authorization, Cache-Control, X-XSRF, x-owner, Origin, X-Requested-With, Content-Type, Accept
+X-atg-version: version=QVRHUGxhdGZvcm0vMTAuMS4y
+Set-cookie: ADRUM_BTa=R:28|g:00ce2ab4-1d4e-40b9-a431-00aaa5745c58; expires=Sat, 13-Feb-2016 20:00:48 GMT; path=/
+Set-cookie: ADRUM_BT1=R:28|i:32269; expires=Sat, 13-Feb-2016 20:00:48 GMT; path=/
+Set-cookie: ADRUM_BT1=R:28|i:32269|e:10; expires=Sat, 13-Feb-2016 20:00:48 GMT; path=/
+Set-cookie: JSESSIONID=sxjcODrrgA0hcheOcikRQDT6EWB3oLuodIyB4JLBJD8TKA2MIl9b!-925176346; path=/; HttpOnly
+Set-cookie: ADRUM_BT1=R:28|i:32269|e:10|d:0; expires=Sat, 13-Feb-2016 20:00:48 GMT; path=/
+Set-cookie: ADRUM_BT2=R:28|i:2832; expires=Sat, 13-Feb-2016 20:00:48 GMT; path=/
+Set-cookie: ADRUM_BT2=R:28|i:2832|e:0; expires=Sat, 13-Feb-2016 20:00:48 GMT; path=/
+Set-cookie: ADRUM_BT2=R:28|i:2832|e:0|d:0; expires=Sat, 13-Feb-2016 20:00:48 GMT; path=/
+Set-cookie: ADRUM_BT3=R:28|i:2832; expires=Sat, 13-Feb-2016 20:00:48 GMT; path=/
+Set-cookie: ADRUM_BT3=R:28|i:2832|e:0; expires=Sat, 13-Feb-2016 20:00:48 GMT; path=/
+Set-cookie: ADRUM_BT3=R:28|i:2832|e:0|d:0; expires=Sat, 13-Feb-2016 20:00:48 GMT; path=/
+Set-cookie: ADRUM_BT4=R:28|i:2832; expires=Sat, 13-Feb-2016 20:00:48 GMT; path=/
+Set-cookie: ADRUM_BT4=R:28|i:2832|e:0; expires=Sat, 13-Feb-2016 20:00:48 GMT; path=/
+Set-cookie: ADRUM_BT4=R:28|i:2832|e:0|d:0; expires=Sat, 13-Feb-2016 20:00:48 GMT; path=/
+Set-cookie: ADRUM_BT5=R:28|i:2836; expires=Sat, 13-Feb-2016 20:00:48 GMT; path=/
+Set-cookie: ADRUM_BT5=R:28|i:2836|e:0; expires=Sat, 13-Feb-2016 20:00:48 GMT; path=/
+Set-cookie: ADRUM_BT5=R:28|i:2836|e:0|d:1; expires=Sat, 13-Feb-2016 20:00:48 GMT; path=/
+Access-control-allow-methods: PATCH, POST, GET, OPTIONS, PUT, DELETE, HEAD
+Access-control-allow-origin: http://www.elcorteingles.es
+X-powered-by: Servlet/2.5 JSP/2.1
+Access-control-max-age: 1728000
+Proxy-agent: Oracle-Traffic-Director/11.1.1.7
+Set-cookie: ORA_OTD_JROUTE=kmoLg9C9QKwSKtAv; path=/; HttpOnly
+X-Client-IP: 87.222.170.28
+X-Global-Transaction-ID: 971528871
+

@@ -1,0 +1,8 @@
+.cookies-policy { font-family: Helvetica, Arial, Sans-Serif; position: fixed; z-index: 9999999999; float: right; width: 330px; margin: 20px -390px; left: 100%; background-color: #eec; opacity: .95; border: 1px solid #cc6; border-radius: 8px; padding: 18px; box-shadow: 0 2px 18px rgba(0,0,0,.4); -webkit-transition: all .25s ease-in-out }
+.cookies-policy.folded { margin: 18px }
+#cookies-policy-close { display: block; float: right; color: #330; text-decoration: none }
+#cookies-policy-close:hover { color: #000 }
+.cookies-policy { color: #330 }
+.cookies-policy p { text-align:left; margin: 0; margin-top: 12px; font-size: 14px }
+.cookies-policy p a { color: #026e31;text-decoration:underline; }
+.cookies-policy h2, #cookies-policy-close { text-align:left; margin: 0; font-size: 22px; font-weight:bold }

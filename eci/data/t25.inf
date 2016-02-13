@@ -1,0 +1,11 @@
+[t25]
+FileName1=t25_55a382638f31a8006373cf94.jpg
+URL1=http://www.elcorteingles.es/sgfm/SGFM/contents/images/uploads/2015/07/55a382638f31a8006373cf94.jpg
+Total=1
+ContentType=image/jpeg
+SnapshotXmlFile=snapshot_25.xml
+RequestHeaderFile=t25_RequestHeader.txt
+RequestBodyFile=NONE
+ResponseHeaderFile=t25_ResponseHeader.txt
+[ProtocolInfo]
+ProtocolId=QTWeb
