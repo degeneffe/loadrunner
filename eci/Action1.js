@@ -7,7 +7,6 @@
 
 function Action1()
 {
-	
 	lr.thinkTime(5);
 	web.addCookie('ADRUM=s=1455393625624&r=http%3A%2F%2Fwww.elcorteingles.es%2F%3F0; DOMAIN=www.elcorteingles.es');
 
