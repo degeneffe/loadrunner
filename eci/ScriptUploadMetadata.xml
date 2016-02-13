@@ -5,7 +5,6 @@
   <ActionFiles>
     <FileEntry Name="vuser_init.js" Filter="2" />
     <FileEntry Name="Action.js" Filter="2" />
-    <FileEntry Name="Action1.js" Filter="2" />
     <FileEntry Name="vuser_end.js" Filter="2" />
   </ActionFiles>
   <GeneralFiles>
@@ -19,14 +18,7 @@
     <FileEntry Name="ReplaySummaryReport.xml" Filter="2" />
     <FileEntry Name="UserTasks.xml" Filter="2" />
     <FileEntry Name="custom_body_variables.txt" Filter="1" />
-    <FileEntry Name="data.zip" Filter="1" />
-    <FileEntry Name="eci.sdf" Filter="1" />
     <FileEntry Name="lrw_custom_body.h" Filter="1" />
-    <FileEntry Name="mdrv.log" Filter="1" />
-    <FileEntry Name="mdrv_cmd.txt" Filter="1" />
-    <FileEntry Name="output.txt" Filter="1" />
-    <FileEntry Name="replay.har" Filter="1" />
-    <FileEntry Name="shunra.shunra" Filter="1" />
     <FileEntry Name="ThumbnailsCache.tmp" Filter="1" />
     <FileEntry Name="data\" Filter="1" />
   </GeneralFiles>

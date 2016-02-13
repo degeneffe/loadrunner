@@ -310,30 +310,15 @@
 		12.50.1096.0                  C:\Program Files (x86)\HP\LoadRunner\bin\insp_gen.dll
 		12.50.1096.0                  C:\Program Files (x86)\HP\LoadRunner\bin\pefile.dll
 		12.50.1096.0                  C:\Program Files (x86)\HP\LoadRunner\bin\inspdll.dll
+		12.50.1096.0                  C:\Program Files (x86)\HP\LoadRunner\bin\api_inspector.dll
+		12.50.1096.0                  C:\Program Files (x86)\HP\LoadRunner\bin\Api_Filter_Helper.dll
+		12.50.855.0                   C:\Program Files (x86)\HP\LoadRunner\bin\trpfnc32.dll
 		12.50.1096.0                  C:\Program Files (x86)\HP\LoadRunner\bin\HTTPSnapshotsWrapper.dll
 		12.50.1096.0                  C:\Program Files (x86)\HP\LoadRunner\bin\type_info_pool.dll
 		12.50.1096.0                  C:\Program Files (x86)\HP\LoadRunner\bin\CodeGenerationAPI.dll
 		12.50.1096.0                  C:\Program Files (x86)\HP\LoadRunner\bin\LRSDKUtilities.dll
 		12.50.1096.0                  C:\Program Files (x86)\HP\LoadRunner\bin\InternalSDKUtils.dll
 		12.50.1096.0                  C:\Program Files (x86)\HP\LoadRunner\bin\VuGenCallback.dll
-		12.50.1096.0                  C:\Program Files (x86)\HP\LoadRunner\bin\ThreadSafeFileOperator.dll
-		12.0.135.0                    C:\Program Files (x86)\HP\LoadRunner\bin\TulipAppInfo.dll
-		12.0.135.0                    C:\Program Files (x86)\HP\LoadRunner\bin\SSFMgrWrapper.dll
-		12.0.135.0                    C:\Program Files (x86)\HP\LoadRunner\bin\RealFileSystem.dll
-		11.00.10586.0 (th2_release.151029-1700)C:\Windows\SYSTEM32\jscript9.dll
-		4.6.1038.0 built by: NETFXREL2C:\WINDOWS\assembly\NativeImages_v4.0.30319_32\System.Transactions\9f90efb52ff4cc437c4c19789ca2c5f3\System.Transactions.ni.dll
-		4.6.1038.0 built by: NETFXREL2C:\WINDOWS\Microsoft.Net\assembly\GAC_32\System.Transactions\v4.0_4.0.0.0__b77a5c561934e089\System.Transactions.dll
-		4.0.8854.1                    C:\Program Files (x86)\HP\LoadRunner\bin\sqlceme40.dll
-		4.6.1038.0 built by: NETFXREL2C:\WINDOWS\assembly\NativeImages_v4.0.30319_32\System.Ente96d83b35#\f32330064138abf3a5c752b7f3d84b2b\System.EnterpriseServices.ni.dll
-		4.6.1038.0 built by: NETFXREL2C:\WINDOWS\assembly\NativeImages_v4.0.30319_32\System.Ente96d83b35#\f32330064138abf3a5c752b7f3d84b2b\System.EnterpriseServices.Wrapper.dll
-		4.6.1038.0 built by: NETFXREL2C:\WINDOWS\Microsoft.Net\assembly\GAC_32\System.EnterpriseServices\v4.0_4.0.0.0__b03f5f7f11d50a3a\System.EnterpriseServices.Wrapper.dll
-		4.6.1038.0 built by: NETFXREL2C:\WINDOWS\assembly\NativeImages_v4.0.30319_32\System.Data86569bbf#\a42da00e743faba0eba56aa79a3cde4e\System.Data.OracleClient.ni.dll
-		4.6.1038.0 built by: NETFXREL2C:\WINDOWS\Microsoft.Net\assembly\GAC_32\System.Data.OracleClient\v4.0_4.0.0.0__b77a5c561934e089\System.Data.OracleClient.dll
-		4.6.1038.0                    C:\WINDOWS\assembly\NativeImages_v4.0.30319_32\System.Comp46f2b404#\f16378fa22e7beaa8b8ccadb1f22e351\System.ComponentModel.DataAnnotations.ni.dll
-		4.6.1038.0 built by: NETFXREL2C:\WINDOWS\assembly\NativeImages_v4.0.30319_32\System.Net.Http\98472bf3594467d7636fa01df50c8e12\System.Net.Http.ni.dll
-		12.50.1096.0                  C:\Program Files (x86)\HP\LoadRunner\bin\api_inspector.dll
-		12.50.855.0                   C:\Program Files (x86)\HP\LoadRunner\bin\trpfnc32.dll
-		12.50.1096.0                  C:\Program Files (x86)\HP\LoadRunner\bin\Api_Filter_Helper.dll
 		10.0.10586.0 (th2_release.151029-1700)C:\Windows\SYSTEM32\cryptui.dll
 		12.50.1096.0                  C:\Program Files (x86)\HP\LoadRunner\bin\lrc_basic_filters.dll
 		12.50.1096.0                  C:\Program Files (x86)\HP\LoadRunner\bin\api_event_parser.dll
@@ -352,16 +337,16 @@
 		1.0.2d                        C:\Program Files (x86)\HP\LoadRunner\bin\libeay32_lt.dll
 		1.0.2d                        C:\Program Files (x86)\HP\LoadRunner\bin\ssleay32_lt.dll
 		12.50.1096.0                  C:\Program Files (x86)\HP\LoadRunner\bin\WebCorrelation.dll
-		12.50.855.0                   C:\Program Files (x86)\HP\LoadRunner\bin\jconv_str.dll
 		                              C:\Program Files (x86)\HP\LoadRunner\bin\duktape.dll
+		12.50.855.0                   C:\Program Files (x86)\HP\LoadRunner\bin\jconv_str.dll
 		12.50.855.0                   C:\Program Files (x86)\HP\LoadRunner\bin\http_auth.dll
-		12.50.1096.0                  C:\Program Files (x86)\HP\LoadRunner\bin\LrXml.dll
 		12.50.855.0                   C:\Program Files (x86)\HP\LoadRunner\bin\LRUN50.dll
+		12.50.1096.0                  C:\Program Files (x86)\HP\LoadRunner\bin\LrXml.dll
 		12.50.1096.0                  C:\Program Files (x86)\HP\LoadRunner\bin\LrJson.dll
-		12.50.855.0                   C:\Program Files (x86)\HP\LoadRunner\bin\merc_uuid.dll
 		12.50.855.0                   C:\Program Files (x86)\HP\LoadRunner\bin\faserver.dll
-		12.50.855.0                   C:\Program Files (x86)\HP\LoadRunner\bin\wrapicu.dll
+		12.50.855.0                   C:\Program Files (x86)\HP\LoadRunner\bin\merc_uuid.dll
 		12.50.1096.0                  C:\Program Files (x86)\HP\LoadRunner\bin\VnpReport.dll
+		12.50.855.0                   C:\Program Files (x86)\HP\LoadRunner\bin\wrapicu.dll
 		12.50.855.0                   C:\Program Files (x86)\HP\LoadRunner\bin\JsonParser.dll
 		12.50.1096.0                  C:\Program Files (x86)\HP\LoadRunner\bin\WebConvertFromFormattedFilter.dll
 		12.50.1096.0                  C:\Program Files (x86)\HP\LoadRunner\bin\WebConvertFromFormattedPostFilter.dll

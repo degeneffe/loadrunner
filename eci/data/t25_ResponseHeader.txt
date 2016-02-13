@@ -1,9 +1,0 @@
-HTTP/1.1 200 OK
-Accept-Ranges: bytes
-Content-Length: 15910
-Content-Type: image/jpeg
-Last-Modified: Mon, 13 Jul 2015 09:18:28 GMT
-p3p: CP="NON CUR OTPi OUR NOR UNI"
-Date: Sat, 13 Feb 2016 20:00:18 GMT
-Connection: keep-alive
-

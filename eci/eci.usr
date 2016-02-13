@@ -22,7 +22,6 @@ Description=
 [Actions]
 vuser_init=vuser_init.js
 Action=Action.js
-Action1=Action1.js
 vuser_end=vuser_end.js
 [RunLogicFiles]
 Default Profile=default.usp
@@ -35,22 +34,18 @@ globals.js=
 [Modified Actions]
 vuser_init=1
 Action=1
-Action1=1
 vuser_end=1
 [Recorded Actions]
 vuser_init=1
 Action=1
-Action1=1
 vuser_end=1
 [Replayed Actions]
 vuser_init=0
 Action=0
-Action1=0
 vuser_end=0
 [Interpreters]
 vuser_init=JsExt-Interpreter
 Action=JsExt-Interpreter
-Action1=JsExt-Interpreter
 vuser_end=JsExt-Interpreter
 [TransactionsOrder]
 Order=

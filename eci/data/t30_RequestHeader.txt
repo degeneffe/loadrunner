@@ -1,9 +1,0 @@
-GET /adrum-ext.ca98cd9e9bc9be02e16c4d7fb16dbb51.js HTTP/1.1
-Host: cdn.appdynamics.com
-User-Agent: Mozilla/5.0 (Windows NT 10.0; WOW64; rv:43.0) Gecko/20100101 Firefox/43.0
-Accept: */*
-Accept-Language: es-ES,es;q=0.8,en-US;q=0.5,en;q=0.3
-Accept-Encoding: gzip, deflate
-Referer: http://www.elcorteingles.es/
-Connection: keep-alive
-

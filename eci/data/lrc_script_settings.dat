@@ -48,5 +48,4 @@ Registry settings:
 		CorrelateStructures	true
 		CastArrayReferences	false
 		CastObjectReferences	false
-		LinesPerFunctionJs	2048
 
