@@ -1,0 +1,19 @@
+HTTP/1.1 200 OK
+Content-Encoding: gzip
+Content-Type: text/html; charset=utf-8
+ETag: W/"4533b-MSnOzGZnFU3Lk7OkBg+Yfg"
+p3p: CP="NON CUR OTPi OUR NOR UNI"
+Cache-Control: public, max-age=856
+Expires: Sat, 13 Feb 2016 20:14:43 GMT
+Date: Sat, 13 Feb 2016 20:00:27 GMT
+Transfer-Encoding:  chunked
+Connection: keep-alive
+Vary: Accept-Encoding
+Connection: Transfer-Encoding
+Set-Cookie: locale=es; Path=/; Expires=Tue, 15 Mar 2016 20:00:26 GMT
+Set-Cookie: session_id=9a822cf3005269fa65da9acb270bfa152a6ba1b2; Path=/; Expires=Mon, 19 Dec 2016 20:00:26 GMT
+Set-Cookie: locale=es; Path=/; Expires=Tue, 15 Mar 2016 20:00:26 GMT
+Set-Cookie: session_id=87476f6ac21df02b4f88364e33e23e4ab2efe398; Path=/; Expires=Mon, 19 Dec 2016 20:00:26 GMT
+Set-Cookie: ADRUM_BT=R:28|clientRequestGUID:480e152b-4fdb-426c-926e-f5b134f6e1ba520807|btId:1732|btERT:598; Path=/; Expires=Sat, 13 Feb 2016 20:00:57 GMT
+Set-Cookie: FECISA_T7=!PCW6QNj498XXyJskCsNrQSCTDsirX0WHC3NhxzqBrBbFVjw6Po7tQyGU1cRvLN08CfEnuJRjQg==;expires=Sat, 13-Feb-2016 21:00:27 GMT;path=/;domain=elcorteingles.es;
+

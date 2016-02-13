@@ -89,9 +89,6 @@ PROCESS 0xd58       cefsharp.browsersubprocess.exe
 Failed to get information of process Id: 9160
 PROCESS 0xaa8       ssh-agent.exe
 PROCESS 0x1128      cefsharp.browsersubprocess.exe
-PROCESS 0x5f8       chrome.exe
-PROCESS 0x1424      chrome.exe
-PROCESS 0x13e8      chrome.exe
 PROCESS 0xcf0       cefsharp.browsersubprocess.exe
 Failed to get information of process Id: 3360
 PROCESS 0x2250      vugen.exe
@@ -103,5 +100,6 @@ PROCESS 0xbf0       chrome.exe
 PROCESS 0x1da4      chrome.exe
 Failed to get information of process Id: 9348
 PROCESS 0x25d0      cefsharp.browsersubprocess.exe
-Failed to get information of process Id: 5420
-Failed to get information of process Id: 10232
+Failed to get information of process Id: 6856
+PROCESS 0x2408      chrome.exe
+PROCESS 0x233c      chrome.exe

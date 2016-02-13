@@ -1,0 +1,11 @@
+[t19]
+FileName1=t19_56bb74da32f51fbd6b2ecfcd.jpg
+URL1=http://www.elcorteingles.es/sgfm/SGFM/contents/images/uploads/2016/02/56bb74da32f51fbd6b2ecfcd.jpg
+Total=1
+ContentType=image/jpeg
+SnapshotXmlFile=snapshot_19.xml
+RequestHeaderFile=t19_RequestHeader.txt
+RequestBodyFile=NONE
+ResponseHeaderFile=t19_ResponseHeader.txt
+[ProtocolInfo]
+ProtocolId=QTWeb

@@ -23,13 +23,19 @@ Name="vuser_errorhandler"
 RunLogicActionType="VuserErrorHandler"
 MercIniTreeFather="RunLogicErrorHandlerRoot"
 [Profile Actions]
-Profile Actions name=vuser_init,Action,vuser_end
+Profile Actions name=vuser_init,Action,Action1,vuser_end
 MercIniTreeSectionName="Profile Actions"
 MercIniTreeFather=""
+[RunLogicRunRoot:Action1]
+MercIniTreeSectionName="Action1"
+RunLogicObjectKind="Action"
+Name="Action1"
+RunLogicActionType="VuserRun"
+MercIniTreeFather="RunLogicRunRoot"
 [RunLogicRunRoot]
-RunLogicActionOrder="Action"
+RunLogicActionOrder="Action,Action1"
 MercIniTreeFather=""
-MercIniTreeSons="Action"
+MercIniTreeSons="Action,Action1"
 RunLogicNumOfIterations="1"
 Name="Run"
 RunLogicRunMode="Sequential"

@@ -1,0 +1,9 @@
+GET /sgfm/SGFM/assets/stylesheets/fonts/moonshine-font.woff HTTP/1.1
+Host: www.elcorteingles.es
+User-Agent: Mozilla/5.0 (Windows NT 10.0; WOW64; rv:43.0) Gecko/20100101 Firefox/43.0
+Accept: application/font-woff2;q=1.0,application/font-woff;q=0.9,*/*;q=0.8
+Accept-Language: es-ES,es;q=0.8,en-US;q=0.5,en;q=0.3
+Accept-Encoding: identity
+Referer: http://www.elcorteingles.es/sgfm/SGFM/assets/stylesheets/crs.css
+Connection: keep-alive
+

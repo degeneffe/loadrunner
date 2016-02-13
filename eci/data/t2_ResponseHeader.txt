@@ -1,0 +1,12 @@
+HTTP/1.1 200 OK
+Content-Encoding: gzip
+Content-Type: text/html; charset=utf-8
+ETag: W/"1de32-l5X07F5YjNl6raX0vYfA8w"
+p3p: CP="NON CUR OTPi OUR NOR UNI"
+Content-Length: 21714
+Cache-Control: public, max-age=486
+Expires: Sat, 13 Feb 2016 20:08:16 GMT
+Date: Sat, 13 Feb 2016 20:00:10 GMT
+Connection: keep-alive
+Vary: Accept-Encoding
+

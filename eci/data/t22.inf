@@ -1,0 +1,11 @@
+[t22]
+FileName1=t22_56b343b3798b62b63227806d.jpg
+URL1=http://www.elcorteingles.es/sgfm/SGFM/contents/images/uploads/2016/02/56b343b3798b62b63227806d.jpg
+Total=1
+ContentType=image/jpeg
+SnapshotXmlFile=snapshot_22.xml
+RequestHeaderFile=t22_RequestHeader.txt
+RequestBodyFile=NONE
+ResponseHeaderFile=t22_ResponseHeader.txt
+[ProtocolInfo]
+ProtocolId=QTWeb

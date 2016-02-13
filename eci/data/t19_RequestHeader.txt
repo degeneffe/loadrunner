@@ -1,0 +1,9 @@
+GET /sgfm/SGFM/contents/images/uploads/2016/02/56bb74da32f51fbd6b2ecfcd.jpg HTTP/1.1
+Host: www.elcorteingles.es
+User-Agent: Mozilla/5.0 (Windows NT 10.0; WOW64; rv:43.0) Gecko/20100101 Firefox/43.0
+Accept: image/png,image/*;q=0.8,*/*;q=0.5
+Accept-Language: es-ES,es;q=0.8,en-US;q=0.5,en;q=0.3
+Accept-Encoding: gzip, deflate
+Referer: http://www.elcorteingles.es/
+Connection: keep-alive
+

@@ -1,0 +1,11 @@
+[t30]
+FileName1=t30_adrum-ext.ca98cd9e9bc9be02e16c4d7fb16dbb51.html
+URL1=http://cdn.appdynamics.com/adrum-ext.ca98cd9e9bc9be02e16c4d7fb16dbb51.js
+Total=1
+ContentType=application/x-javascript
+SnapshotXmlFile=snapshot_30.xml
+RequestHeaderFile=t30_RequestHeader.txt
+RequestBodyFile=NONE
+ResponseHeaderFile=t30_ResponseHeader.txt
+[ProtocolInfo]
+ProtocolId=QTWeb

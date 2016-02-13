@@ -1,0 +1,11 @@
+HTTP/1.1 200 OK
+Content-Type: application/javascript; charset=UTF-8
+Content-Encoding: gzip
+Vary: Accept-Encoding
+Date: Sat, 13 Feb 2016 20:00:12 GMT
+Expires: Sat, 13 Feb 2016 20:00:12 GMT
+Cache-Control: private, max-age=909
+Server: scaffolding on HTTPServer2
+Content-Length: 45038
+X-XSS-Protection: 1; mode=block
+

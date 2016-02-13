@@ -1,0 +1,12 @@
+HTTP/1.1 200 OK
+Accept-Ranges: bytes
+Content-Encoding: gzip
+Content-Type: image/svg+xml
+Last-Modified: Wed, 23 Sep 2015 15:20:53 GMT
+p3p: CP="NON CUR OTPi OUR NOR UNI"
+access-control-allow-origin: *
+Content-Length: 5593
+Date: Sat, 13 Feb 2016 20:00:12 GMT
+Connection: keep-alive
+Vary: Accept-Encoding
+

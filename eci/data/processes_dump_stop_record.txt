@@ -89,9 +89,6 @@ PROCESS 0xd58       cefsharp.browsersubprocess.exe
 Failed to get information of process Id: 9160
 PROCESS 0xaa8       ssh-agent.exe
 PROCESS 0x1128      cefsharp.browsersubprocess.exe
-PROCESS 0x5f8       chrome.exe
-PROCESS 0x1424      chrome.exe
-PROCESS 0x13e8      chrome.exe
 PROCESS 0xcf0       cefsharp.browsersubprocess.exe
 Failed to get information of process Id: 3360
 PROCESS 0x2250      vugen.exe
@@ -103,21 +100,7 @@ PROCESS 0xbf0       chrome.exe
 PROCESS 0x1da4      chrome.exe
 Failed to get information of process Id: 9348
 PROCESS 0x25d0      cefsharp.browsersubprocess.exe
-Failed to get information of process Id: 10232
-Failed to get information of process Id: 7240
-PROCESS 0x14a8      firefox.exe
-		43.0.4                        C:\Program Files (x86)\Mozilla Firefox\firefox.exe
-		10.0.10586.0 (th2_release.151029-1700)C:\WINDOWS\SYSTEM32\ntdll.dll
-		10.0.10586.0 (th2_release.151029-1700)C:\WINDOWS\SYSTEM32\KERNEL32.DLL
-		10.0.10586.0 (th2_release.151029-1700)C:\WINDOWS\SYSTEM32\KERNELBASE.dll
-		12.50.855.0                   C:\Program Files (x86)\HP\LoadRunner\bin\bbhook.dll
-		10.0.10586.0 (th2_release.151029-1700)C:\WINDOWS\SYSTEM32\USER32.dll
-		10.0.10586.63 (th2_release.160104-1513)C:\WINDOWS\SYSTEM32\GDI32.dll
-		10.0.10586.0 (th2_release.151029-1700)C:\WINDOWS\SYSTEM32\ADVAPI32.dll
-		7.0.10586.0 (th2_release.151029-1700)C:\WINDOWS\SYSTEM32\msvcrt.dll
-		10.0.10586.0 (th2_release.151029-1700)C:\WINDOWS\SYSTEM32\sechost.dll
-		10.0.10586.0 (th2_release.151029-1700)C:\WINDOWS\SYSTEM32\RPCRT4.dll
-Failed to get information of process Id: 7212
-Failed to get information of process Id: 9744
-Failed to get information of process Id: 3272
-Failed to get information of process Id: 9332
+Failed to get information of process Id: 6856
+PROCESS 0x2408      chrome.exe
+PROCESS 0x233c      chrome.exe
+Failed to get information of process Id: 10120
