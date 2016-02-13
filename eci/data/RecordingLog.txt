@@ -1,0 +1,380 @@
+[API Trapper      (2574:27cc)] Recording in 32-bit mode: C:\Program Files (x86)\Mozilla Firefox\firefox.exe
+[API Trapper      (2038: 6d8)] Recording in 32-bit mode: C:\Program Files (x86)\Mozilla Firefox\updater.exe
+[API Trapper      (2474:23a4)] Recording in 32-bit mode: C:\Program Files (x86)\Mozilla Firefox\uninstall\helper.exe
+[API Trapper      (14a8:18e8)] Recording in 32-bit mode: C:\Program Files (x86)\Mozilla Firefox\firefox.exe
+[Network Analyzer (14a8:18e8)] ------------------------------------------------------------------------------------------
+[Network Analyzer (14a8:18e8)] Load Network Traffic Analyzers:
+[Network Analyzer (14a8:18e8)]     Analyzer Module: WPLUS (value=)
+[Network Analyzer (14a8:18e8)]     Analyzer Module: WebBase (value=GetHttpProtocolAnalyzer:api_http_filter.dll)
+[Network Analyzer (14a8:18e8)]     + Network Analyzer: api_http_filter.dll @ GetHttpProtocolAnalyzer Loaded!
+[Network Analyzer (14a8:18e8)]     + Interception Auditors: WinInetWplusInterceptionAudit:api_http_filter.dll
+[Network Analyzer (14a8:18e8)]     Analyzer Module: QTWeb (value=GetWebSocketProtocolAnalyzer:WebSocketAnalyzer.dll)
+[Network Analyzer (14a8:18e8)]     + Network Analyzer: WebSocketAnalyzer.dll @ GetWebSocketProtocolAnalyzer Loaded!
+[Network Analyzer (14a8:18e8)]     Analyzer Module: local_server (value=)
+[Network Analyzer (14a8:18e8)] ------------------------------------------------------------------------------------------
+[Network Analyzer (14a8:2534)] Address lookup for degeneffe = 192.168.59.3
+[Network Analyzer (14a8:18e8)] Establish Listener @ 127.0.0.1:10728
+[Network Analyzer (14a8:18e8)] Address lookup for degeneffe = 192.168.59.3
+[Network Analyzer (14a8:18e8)] Request Connection: Remote Server @ 127.0.0.1:10728   (Service=)  (Sid=  2)  PROXIED!
+[Network Analyzer (14a8:18e8)] Accept Connection : Service @ 127.0.0.1:10728  ,  Remote Client @ 127.0.0.1:10730
+[Network Analyzer (14a8:2534)]   (Sid:  2) Connection Terminated (by Client)
+[Network Analyzer (14a8:2534)]   (Sid:  3) Connection Terminated (by Client)
+[Network Analyzer (14a8:257c)] Address lookup for degeneffe = 192.168.59.3
+[Network Analyzer (14a8:257c)] Request Connection: Remote Server @ 52.27.130.229:443   (Service=)  (Sid=  4)  PROXIED!
+[Network Analyzer (14a8: c58)]   (Sid:  4) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.1, ciphers:ECDHE-RSA-AES128-SHA)
+[Net An. Error    (14a8: c58)]   (Sid:  4) Negotiate Client -> Proxy SSL Handshake Failed!!!
+[Network Analyzer (14a8:2534)]   (Sid:  4) Connection Terminated (by Client)
+[Network Analyzer (14a8:257c)] Address lookup for degeneffe = 192.168.59.3
+[Network Analyzer (14a8:257c)] Request Connection: Remote Server @ 52.34.245.108:443   (Service=)  (Sid=  5)  PROXIED!
+[Network Analyzer (14a8:18a4)]   (Sid:  5) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.1, ciphers:ECDHE-RSA-AES128-SHA)
+[Network Analyzer (14a8:257c)] Address lookup for degeneffe = 192.168.59.3
+[Network Analyzer (14a8:257c)] Request Connection: Remote Server @ 104.83.235.2:80   (Service=)  (Sid=  6)  PROXIED!
+[Net An. Error    (14a8:18a4)]   (Sid:  5) Negotiate Client -> Proxy SSL Handshake Failed!!!
+[Web Request      (14a8:2534)] "GET /"   
+[Network Analyzer (14a8:2534)]   (Sid:  6) Client -> Server @ : 316 bytes (Service=HTTP)
+[Network Analyzer (14a8:2534)]   (Sid:  6) Server -> Client : 1452 bytes  (Service=HTTP)
+[Network Analyzer (14a8:2534)]   (Sid:  6) Server -> Client : 4356 bytes  (Service=HTTP)
+[Network Analyzer (14a8:2534)]   (Sid:  6) Server -> Client : 5808 bytes  (Service=HTTP)
+[Network Analyzer (14a8:2534)]   (Sid:  6) Server -> Client : 2904 bytes  (Service=HTTP)
+[Network Analyzer (14a8:2534)]   (Sid:  6) Server -> Client : 4356 bytes  (Service=HTTP)
+[Network Analyzer (14a8:2534)]   (Sid:  6) Server -> Client : 1452 bytes  (Service=HTTP)
+[Network Analyzer (14a8:2534)]   (Sid:  6) Server -> Client : 1728 bytes  (Service=HTTP)
+[Network Analyzer (14a8:2534)]   (Sid:  5) Connection Terminated (by Client)
+[Network Analyzer (14a8:257c)] Address lookup for degeneffe = 192.168.59.3
+[Network Analyzer (14a8:257c)] Request Connection: Remote Server @ 104.83.235.2:80   (Service=)  (Sid=  7)  PROXIED!
+[Network Analyzer (14a8:257c)] Address lookup for degeneffe = 192.168.59.3
+[Network Analyzer (14a8:257c)] Request Connection: Remote Server @ 52.34.245.108:443   (Service=)  (Sid=  8)  PROXIED!
+[Network Analyzer (14a8:2130)]   (Sid:  8) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.1, ciphers:ECDHE-RSA-AES128-SHA)
+[Network Analyzer (14a8:257c)] Address lookup for degeneffe = 192.168.59.3
+[Network Analyzer (14a8:257c)] Request Connection: Remote Server @ 216.58.210.142:443   (Service=)  (Sid=  9)  PROXIED!
+[Net An. Error    (14a8:2130)]   (Sid:  8) Negotiate Client -> Proxy SSL Handshake Failed!!!
+[Network Analyzer (14a8:1f10)]   (Sid:  9) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.1, ciphers:ECDHE-RSA-AES128-SHA)
+[Network Analyzer (14a8:2534)]   (Sid:  8) Connection Terminated (by Client)
+[Network Analyzer (14a8:257c)] Address lookup for degeneffe = 192.168.59.3
+[Network Analyzer (14a8:257c)] Request Connection: Remote Server @ 54.192.61.158:443   (Service=)  (Sid= 10)  PROXIED!
+[Net An. Error    (14a8:1f10)]   (Sid:  9) Negotiate Client -> Proxy SSL Handshake Failed!!!
+[Web Request      (14a8:2534)] "GET /sgfm/SGFM/assets/stylesheets/crs.css"   
+[Network Analyzer (14a8:2534)]   (Sid:  6) Client -> Server @ : 346 bytes (Service=HTTP)
+[Network Analyzer (14a8:2534)]   (Sid:  7) Connection Terminated (by Client)
+[Network Analyzer (14a8:257c)] Address lookup for degeneffe = 192.168.59.3
+[Network Analyzer (14a8:2534)]   (Sid:  6) Server -> Client : 1452 bytes  (Service=HTTP)
+[Network Analyzer (14a8:2534)]   (Sid:  6) Server -> Client : 8712 bytes  (Service=HTTP)
+[Network Analyzer (14a8:2534)]   (Sid:  6) Server -> Client : 2904 bytes  (Service=HTTP)
+[Network Analyzer (14a8:2534)]   (Sid:  6) Server -> Client : 4356 bytes  (Service=HTTP)
+[Network Analyzer (14a8:2534)]   (Sid:  6) Server -> Client : 4356 bytes  (Service=HTTP)
+[Network Analyzer (14a8:2534)]   (Sid:  6) Server -> Client : 1452 bytes  (Service=HTTP)
+[Network Analyzer (14a8:257c)] Request Connection: Remote Server @ 104.83.235.2:80   (Service=)  (Sid= 11)  PROXIED!
+[Net An. Error    (14a8:  c8)]   (Sid: 10) SSL handshake with remote server Failed!
+[Network Analyzer (14a8:2534)]   (Sid:  6) Server -> Client : 1452 bytes  (Service=HTTP)
+[Network Analyzer (14a8:2534)]   (Sid:  6) Server -> Client : 2904 bytes  (Service=HTTP)
+[Network Analyzer (14a8:2534)]   (Sid:  6) Server -> Client : 4356 bytes  (Service=HTTP)
+[Network Analyzer (14a8:2534)]   (Sid:  6) Server -> Client : 2904 bytes  (Service=HTTP)
+[Network Analyzer (14a8:2534)]   (Sid:  6) Server -> Client : 4356 bytes  (Service=HTTP)
+[Network Analyzer (14a8:2534)]   (Sid:  6) Server -> Client : 1452 bytes  (Service=HTTP)
+[Network Analyzer (14a8:2534)]   (Sid:  6) Server -> Client : 4356 bytes  (Service=HTTP)
+[Network Analyzer (14a8:2534)]   (Sid:  6) Server -> Client : 1452 bytes  (Service=HTTP)
+[Network Analyzer (14a8:2534)]   (Sid:  6) Server -> Client : 1452 bytes  (Service=HTTP)
+[Network Analyzer (14a8:2534)]   (Sid:  6) Server -> Client : 1452 bytes  (Service=HTTP)
+[Network Analyzer (14a8:2534)]   (Sid:  6) Server -> Client : 1452 bytes  (Service=HTTP)
+[Network Analyzer (14a8:2534)]   (Sid:  6) Server -> Client : 1452 bytes  (Service=HTTP)
+[Network Analyzer (14a8:2534)]   (Sid:  6) Server -> Client : 1452 bytes  (Service=HTTP)
+[Network Analyzer (14a8:2534)]   (Sid:  6) Server -> Client : 2904 bytes  (Service=HTTP)
+[Network Analyzer (14a8:2534)]   (Sid:  6) Server -> Client : 6660 bytes  (Service=HTTP)
+[Network Analyzer (14a8:2534)]   (Sid:  9) Connection Terminated (by Client)
+[Network Analyzer (14a8:257c)] Address lookup for degeneffe = 192.168.59.3
+[Network Analyzer (14a8:257c)] Request Connection: Remote Server @ 104.83.235.2:80   (Service=)  (Sid= 12)  PROXIED!
+[Web Request      (14a8:2534)] "GET /sgfm/SGFM/assets/javascripts/geci.moonshine.min.js"   
+[Network Analyzer (14a8:2534)]   (Sid: 11) Client -> Server @ : 345 bytes (Service=HTTP)
+[Web Request      (14a8:2534)] "GET /sgfm/SGFM/assets/javascripts/library/external/adrum.min.js"   
+[Network Analyzer (14a8:257c)] Address lookup for degeneffe = 192.168.59.3
+[Network Analyzer (14a8:2534)]   (Sid: 12) Client -> Server @ : 353 bytes (Service=HTTP)
+[Network Analyzer (14a8:257c)] Request Connection: Remote Server @ 104.83.235.2:80   (Service=)  (Sid= 13)  PROXIED!
+[Network Analyzer (14a8:257c)] Address lookup for degeneffe = 192.168.59.3
+[Network Analyzer (14a8:2534)]   (Sid: 11) Server -> Client : 1452 bytes  (Service=HTTP)
+[Network Analyzer (14a8:2534)]   (Sid: 11) Server -> Client : 7260 bytes  (Service=HTTP)
+[Network Analyzer (14a8:2534)]   (Sid: 11) Server -> Client : 2904 bytes  (Service=HTTP)
+[Network Analyzer (14a8:2534)]   (Sid: 11) Server -> Client : 1452 bytes  (Service=HTTP)
+[Network Analyzer (14a8:2534)]   (Sid: 11) Server -> Client : 2904 bytes  (Service=HTTP)
+[Network Analyzer (14a8:2534)]   (Sid: 11) Server -> Client : 4356 bytes  (Service=HTTP)
+[Network Analyzer (14a8:2534)]   (Sid: 11) Server -> Client : 1452 bytes  (Service=HTTP)
+[Network Analyzer (14a8:2534)]   (Sid: 11) Server -> Client : 1452 bytes  (Service=HTTP)
+[Network Analyzer (14a8:2534)]   (Sid: 12) Server -> Client : 5808 bytes  (Service=HTTP)
+[Network Analyzer (14a8:2534)]   (Sid: 12) Server -> Client : 5082 bytes  (Service=HTTP)
+[Network Analyzer (14a8:257c)] Request Connection: Remote Server @ 104.83.235.2:80   (Service=)  (Sid= 14)  PROXIED!
+[Network Analyzer (14a8:257c)] Address lookup for degeneffe = 192.168.59.3
+[Network Analyzer (14a8:2534)]   (Sid: 11) Server -> Client : 1452 bytes  (Service=HTTP)
+[Network Analyzer (14a8:2534)]   (Sid: 11) Server -> Client : 7260 bytes  (Service=HTTP)
+[Network Analyzer (14a8:2534)]   (Sid: 11) Server -> Client : 2904 bytes  (Service=HTTP)
+[Network Analyzer (14a8:2534)]   (Sid: 11) Server -> Client : 5808 bytes  (Service=HTTP)
+[Network Analyzer (14a8:2534)]   (Sid: 11) Server -> Client : 2904 bytes  (Service=HTTP)
+[Network Analyzer (14a8:2534)]   (Sid: 11) Server -> Client : 4356 bytes  (Service=HTTP)
+[Network Analyzer (14a8:2534)]   (Sid: 11) Server -> Client : 1452 bytes  (Service=HTTP)
+[Network Analyzer (14a8:2534)]   (Sid: 11) Server -> Client : 1452 bytes  (Service=HTTP)
+[Network Analyzer (14a8:2534)]   (Sid: 11) Server -> Client : 1452 bytes  (Service=HTTP)
+[Network Analyzer (14a8:2534)]   (Sid: 11) Server -> Client : 1452 bytes  (Service=HTTP)
+[Network Analyzer (14a8:2534)]   (Sid: 11) Server -> Client : 16384 bytes  (Service=HTTP)
+[Network Analyzer (14a8:2534)]   (Sid: 11) Server -> Client : 15739 bytes  (Service=HTTP)
+[Network Analyzer (14a8:257c)] Request Connection: Remote Server @ 104.83.235.2:80   (Service=)  (Sid= 15)  PROXIED!
+[Web Request      (14a8:2534)] "GET /sgfm/SGFM/contents/images/uploads/2016/02/56bda862fdb6d50317aad7df.gif"   
+[Network Analyzer (14a8:2534)]   (Sid: 15) Client -> Server @ : 395 bytes (Service=HTTP)
+[Web Request      (14a8:2534)] "GET /sgfm/SGFM/contents/images/uploads/2016/02/56bcb77727f8deb46b5dd500.gif"   
+[Network Analyzer (14a8:2534)]   (Sid: 14) Client -> Server @ : 395 bytes (Service=HTTP)
+[Web Request      (14a8:2534)] "GET /sgfm/SGFM/contents/images/uploads/2016/02/56bdc5bfecfec1fe162ee2ec.gif"   
+[Network Analyzer (14a8:2534)]   (Sid: 13) Client -> Server @ : 395 bytes (Service=HTTP)
+[Web Request      (14a8:2534)] "GET /sgfm/SGFM/contents/images/uploads/2016/01/569d0975047648ce28442a4c.jpg"   
+[Network Analyzer (14a8:2534)]   (Sid:  6) Client -> Server @ : 395 bytes (Service=HTTP)
+[Web Request      (14a8:2534)] "GET /sgfm/SGFM/contents/images/uploads/2016/02/56b9a75e27f8deb46b5dd400.gif"   
+[Network Analyzer (14a8:2534)]   (Sid: 11) Client -> Server @ : 395 bytes (Service=HTTP)
+[Web Request      (14a8:2534)] "GET /sgfm/SGFM/contents/images/uploads/2016/02/56b85a7b73499ca8328a338f.gif"   
+[Network Analyzer (14a8:2534)]   (Sid: 12) Client -> Server @ : 395 bytes (Service=HTTP)
+[Network Analyzer (14a8:2534)]   (Sid: 15) Server -> Client : 1452 bytes  (Service=HTTP)
+[Network Analyzer (14a8:2534)]   (Sid: 14) Server -> Client : 5808 bytes  (Service=HTTP)
+[Network Analyzer (14a8:2534)]   (Sid: 15) Server -> Client : 3969 bytes  (Service=HTTP)
+[Network Analyzer (14a8:2534)]   (Sid: 14) Server -> Client : 1737 bytes  (Service=HTTP)
+[Network Analyzer (14a8:2534)]   (Sid: 13) Server -> Client : 2904 bytes  (Service=HTTP)
+[Network Analyzer (14a8:2534)]   (Sid: 13) Server -> Client : 1452 bytes  (Service=HTTP)
+[Network Analyzer (14a8:2534)]   (Sid: 13) Server -> Client : 1270 bytes  (Service=HTTP)
+[Network Analyzer (14a8:2534)]   (Sid:  6) Server -> Client : 1616 bytes  (Service=HTTP)
+[Network Analyzer (14a8:2534)]   (Sid: 11) Server -> Client : 2904 bytes  (Service=HTTP)
+[Network Analyzer (14a8:2534)]   (Sid: 11) Server -> Client : 2904 bytes  (Service=HTTP)
+[Network Analyzer (14a8:2534)]   (Sid: 11) Server -> Client : 1452 bytes  (Service=HTTP)
+[Network Analyzer (14a8:2534)]   (Sid: 11) Server -> Client : 2276 bytes  (Service=HTTP)
+[Network Analyzer (14a8:2534)]   (Sid: 12) Server -> Client : 4345 bytes  (Service=HTTP)
+[Network Analyzer (14a8:257c)] Address lookup for degeneffe = 192.168.59.3
+[Network Analyzer (14a8:257c)] Request Connection: Remote Server @ 52.33.204.62:443   (Service=)  (Sid= 16)  PROXIED!
+[Web Request      (14a8:2534)] "GET /sgfm/SGFM/assets/stylesheets/fonts/opensans-regular-webfont.woff"   
+[Network Analyzer (14a8:2534)]   (Sid: 14) Client -> Server @ : 453 bytes (Service=HTTP)
+[Web Request      (14a8:2534)] "GET /sgfm/SGFM/assets/stylesheets/fonts/opensans-bold-webfont.woff"   
+[Network Analyzer (14a8:2534)]   (Sid: 13) Client -> Server @ : 450 bytes (Service=HTTP)
+[Web Request      (14a8:2534)] "GET /sgfm/SGFM/assets/stylesheets/fonts/moonshine-font.woff"   
+[Network Analyzer (14a8:2534)]   (Sid: 15) Client -> Server @ : 443 bytes (Service=HTTP)
+[Web Request      (14a8:2534)] "GET /sgfm/SGFM/assets/stylesheets/fonts/lato-regular-webfont.woff"   
+[Network Analyzer (14a8:2534)]   (Sid: 11) Client -> Server @ : 449 bytes (Service=HTTP)
+[Web Request      (14a8:2534)] "GET /sgfm/SGFM/assets/javascripts/library/external/dust-core.min.js"   
+[Network Analyzer (14a8:2534)]   (Sid: 12) Client -> Server @ : 357 bytes (Service=HTTP)
+[Web Request      (14a8:2534)] "GET /sgfm/SGFM/assets/javascripts/library/external/dust-helpers.min.js"   
+[Network Analyzer (14a8:2534)]   (Sid:  6) Client -> Server @ : 360 bytes (Service=HTTP)
+[Network Analyzer (14a8:2534)]   (Sid: 14) Server -> Client : 1452 bytes  (Service=HTTP)
+[Network Analyzer (14a8:2534)]   (Sid: 14) Server -> Client : 1452 bytes  (Service=HTTP)
+[Network Analyzer (14a8:2534)]   (Sid: 14) Server -> Client : 5808 bytes  (Service=HTTP)
+[Network Analyzer (14a8:2534)]   (Sid: 14) Server -> Client : 7260 bytes  (Service=HTTP)
+[Network Analyzer (14a8:2534)]   (Sid: 14) Server -> Client : 1452 bytes  (Service=HTTP)
+[Network Analyzer (14a8:2534)]   (Sid: 14) Server -> Client : 5808 bytes  (Service=HTTP)
+[Network Analyzer (14a8:2534)]   (Sid: 13) Server -> Client : 4356 bytes  (Service=HTTP)
+[Network Analyzer (14a8:2534)]   (Sid: 13) Server -> Client : 16384 bytes  (Service=HTTP)
+[Network Analyzer (14a8:2534)]   (Sid: 13) Server -> Client : 2492 bytes  (Service=HTTP)
+[Network Analyzer (14a8:2534)]   (Sid: 15) Server -> Client : 10164 bytes  (Service=HTTP)
+[Network Analyzer (14a8:2534)]   (Sid:  6) Server -> Client : 2205 bytes  (Service=HTTP)
+[Network Analyzer (14a8:2534)]   (Sid: 11) Server -> Client : 16384 bytes  (Service=HTTP)
+[Network Analyzer (14a8:2534)]   (Sid: 12) Server -> Client : 4054 bytes  (Service=HTTP)
+[Network Analyzer (14a8:2534)]   (Sid: 14) Server -> Client : 1770 bytes  (Service=HTTP)
+[Network Analyzer (14a8:2534)]   (Sid: 15) Server -> Client : 16384 bytes  (Service=HTTP)
+[Network Analyzer (14a8:2534)]   (Sid: 11) Server -> Client : 15698 bytes  (Service=HTTP)
+[Network Analyzer (14a8:2534)]   (Sid: 13) Server -> Client : 2574 bytes  (Service=HTTP)
+[Network Analyzer (14a8:2534)]   (Sid: 15) Server -> Client : 10807 bytes  (Service=HTTP)
+[Network Analyzer (14a8: 674)]   (Sid: 16) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.1, ciphers:ECDHE-RSA-AES128-SHA)
+[Network Analyzer (14a8:257c)] Address lookup for degeneffe = 192.168.59.3
+[Network Analyzer (14a8:257c)] Request Connection: Remote Server @ 195.53.101.72:443   (Service=)  (Sid= 17)  PROXIED!
+[Net An. Error    (14a8: 674)]   (Sid: 16) Negotiate Client -> Proxy SSL Handshake Failed!!!
+[Network Analyzer (14a8:257c)] Address lookup for degeneffe = 192.168.59.3
+[Network Analyzer (14a8:257c)] Request Connection: Remote Server @ 195.53.101.72:443   (Service=)  (Sid= 18)  PROXIED!
+[Network Analyzer (14a8:1638)]   (Sid: 17) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.1, ciphers:AES256-SHA)
+[Network Analyzer (14a8:2534)]   (Sid: 16) Connection Terminated (by Client)
+[Network Analyzer (14a8:257c)] Address lookup for degeneffe = 192.168.59.3
+[Network Analyzer (14a8:257c)] Request Connection: Remote Server @ 216.58.210.136:80   (Service=)  (Sid= 19)  PROXIED!
+[Net An. Error    (14a8:1638)]   (Sid: 17) Negotiate Client -> Proxy SSL Handshake Failed!!!
+[Web Request      (14a8:2534)] "GET /gtm.js?id=GTM-TMQVMD"   
+[Network Analyzer (14a8:2534)]   (Sid: 19) Client -> Server @ : 319 bytes (Service=HTTP)
+[Network Analyzer (14a8:2534)]   (Sid: 19) Server -> Client : 1430 bytes  (Service=HTTP)
+[Network Analyzer (14a8:2534)]   (Sid: 19) Server -> Client : 7150 bytes  (Service=HTTP)
+[Network Analyzer (14a8:2534)]   (Sid: 19) Server -> Client : 2860 bytes  (Service=HTTP)
+[Network Analyzer (14a8:2534)]   (Sid: 19) Server -> Client : 1430 bytes  (Service=HTTP)
+[Network Analyzer (14a8:2534)]   (Sid: 19) Server -> Client : 1430 bytes  (Service=HTTP)
+[Network Analyzer (14a8:25b4)]   (Sid: 18) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.1, ciphers:AES256-SHA)
+[Network Analyzer (14a8:2534)]   (Sid: 19) Server -> Client : 1430 bytes  (Service=HTTP)
+[Network Analyzer (14a8:2534)]   (Sid: 19) Server -> Client : 2860 bytes  (Service=HTTP)
+[Network Analyzer (14a8:2534)]   (Sid: 19) Server -> Client : 1430 bytes  (Service=HTTP)
+[Network Analyzer (14a8:2534)]   (Sid: 19) Server -> Client : 4290 bytes  (Service=HTTP)
+[Network Analyzer (14a8:2534)]   (Sid: 19) Server -> Client : 5720 bytes  (Service=HTTP)
+[Network Analyzer (14a8:2534)]   (Sid: 19) Server -> Client : 1430 bytes  (Service=HTTP)
+[Network Analyzer (14a8:2534)]   (Sid: 19) Server -> Client : 2860 bytes  (Service=HTTP)
+[Network Analyzer (14a8:2534)]   (Sid: 19) Server -> Client : 5720 bytes  (Service=HTTP)
+[Network Analyzer (14a8:2534)]   (Sid: 19) Server -> Client : 2860 bytes  (Service=HTTP)
+[Network Analyzer (14a8:2534)]   (Sid: 19) Server -> Client : 1430 bytes  (Service=HTTP)
+[Network Analyzer (14a8:2534)]   (Sid: 19) Server -> Client : 1033 bytes  (Service=HTTP)
+[Network Analyzer (14a8:2534)]   (Sid: 17) Connection Terminated (by Client)
+[Network Analyzer (14a8:257c)] Address lookup for degeneffe = 192.168.59.3
+[Network Analyzer (14a8:257c)] Request Connection: Remote Server @ 216.58.210.136:80   (Service=)  (Sid= 20)  PROXIED!
+[Net An. Error    (14a8:25b4)]   (Sid: 18) Negotiate Client -> Proxy SSL Handshake Failed!!!
+[Web Request      (14a8:2534)] "GET /sgfm/SGFM/assets/javascripts/compiled/templates.js"   
+[Network Analyzer (14a8:2534)]   (Sid: 14) Client -> Server @ : 345 bytes (Service=HTTP)
+[Web Request      (14a8:2534)] "GET /sgfm/SGFM/assets/javascripts/library/external/form2js.min.js"   
+[Network Analyzer (14a8:2534)]   (Sid: 13) Client -> Server @ : 355 bytes (Service=HTTP)
+[Web Request      (14a8:2534)] "GET /sgfm/SGFM/assets/stylesheets/images/confianza-online-icon.svg"   
+[Network Analyzer (14a8:2534)]   (Sid: 15) Client -> Server @ : 422 bytes (Service=HTTP)
+[Web Request      (14a8:2534)] "GET /sgfm/SGFM/contents/images/uploads/2016/02/56bc6b6d806e8ba26b5e676b.jpg"   
+[Network Analyzer (14a8:2534)]   (Sid: 11) Client -> Server @ : 395 bytes (Service=HTTP)
+[Web Request      (14a8:2534)] "GET /sgfm/SGFM/contents/images/uploads/2016/02/56bc5627387d34cf6bd2ee63.jpg"   
+[Network Analyzer (14a8:2534)]   (Sid: 12) Client -> Server @ : 395 bytes (Service=HTTP)
+[Web Request      (14a8:2534)] "GET /sgfm/SGFM/contents/images/uploads/2016/02/56bc62c027f8deb46b5dd4a6.jpg"   
+[Network Analyzer (14a8:2534)]   (Sid:  6) Client -> Server @ : 395 bytes (Service=HTTP)
+[Network Analyzer (14a8:2534)]   (Sid: 14) Server -> Client : 1452 bytes  (Service=HTTP)
+[Network Analyzer (14a8:2534)]   (Sid: 14) Server -> Client : 4356 bytes  (Service=HTTP)
+[Network Analyzer (14a8:2534)]   (Sid: 14) Server -> Client : 1452 bytes  (Service=HTTP)
+[Network Analyzer (14a8:2534)]   (Sid: 14) Server -> Client : 5808 bytes  (Service=HTTP)
+[Network Analyzer (14a8:2534)]   (Sid: 14) Server -> Client : 6159 bytes  (Service=HTTP)
+[Network Analyzer (14a8:2534)]   (Sid: 13) Server -> Client : 1588 bytes  (Service=HTTP)
+[Network Analyzer (14a8:2534)]   (Sid: 15) Server -> Client : 2904 bytes  (Service=HTTP)
+[Network Analyzer (14a8:2534)]   (Sid: 15) Server -> Client : 1452 bytes  (Service=HTTP)
+[Network Analyzer (14a8:2534)]   (Sid: 11) Server -> Client : 2904 bytes  (Service=HTTP)
+[Network Analyzer (14a8:2534)]   (Sid: 15) Server -> Client : 1551 bytes  (Service=HTTP)
+[Network Analyzer (14a8:2534)]   (Sid: 11) Server -> Client : 15972 bytes  (Service=HTTP)
+[Network Analyzer (14a8:2534)]   (Sid: 11) Server -> Client : 4356 bytes  (Service=HTTP)
+[Network Analyzer (14a8:2534)]   (Sid: 12) Server -> Client : 13068 bytes  (Service=HTTP)
+[Network Analyzer (14a8:2534)]   (Sid:  6) Server -> Client : 2904 bytes  (Service=HTTP)
+[Network Analyzer (14a8:2534)]   (Sid: 12) Server -> Client : 10164 bytes  (Service=HTTP)
+[Network Analyzer (14a8:2534)]   (Sid:  6) Server -> Client : 8712 bytes  (Service=HTTP)
+[Network Analyzer (14a8:2534)]   (Sid:  6) Server -> Client : 4356 bytes  (Service=HTTP)
+[Network Analyzer (14a8:2534)]   (Sid:  6) Server -> Client : 4356 bytes  (Service=HTTP)
+[Network Analyzer (14a8:2534)]   (Sid:  6) Server -> Client : 2904 bytes  (Service=HTTP)
+[Network Analyzer (14a8:2534)]   (Sid: 11) Server -> Client : 1452 bytes  (Service=HTTP)
+[Network Analyzer (14a8:2534)]   (Sid: 11) Server -> Client : 2904 bytes  (Service=HTTP)
+[Network Analyzer (14a8:2534)]   (Sid: 11) Server -> Client : 4356 bytes  (Service=HTTP)
+[Network Analyzer (14a8:2534)]   (Sid: 11) Server -> Client : 2904 bytes  (Service=HTTP)
+[Network Analyzer (14a8:2534)]   (Sid: 11) Server -> Client : 4356 bytes  (Service=HTTP)
+[Network Analyzer (14a8:2534)]   (Sid: 11) Server -> Client : 2904 bytes  (Service=HTTP)
+[Network Analyzer (14a8:2534)]   (Sid: 11) Server -> Client : 8712 bytes  (Service=HTTP)
+[Network Analyzer (14a8:2534)]   (Sid: 11) Server -> Client : 4356 bytes  (Service=HTTP)
+[Network Analyzer (14a8:2534)]   (Sid: 11) Server -> Client : 2904 bytes  (Service=HTTP)
+[Network Analyzer (14a8:2534)]   (Sid: 11) Server -> Client : 4356 bytes  (Service=HTTP)
+[Network Analyzer (14a8:2534)]   (Sid: 11) Server -> Client : 4356 bytes  (Service=HTTP)
+[Network Analyzer (14a8:2534)]   (Sid: 11) Server -> Client : 1452 bytes  (Service=HTTP)
+[Network Analyzer (14a8:2534)]   (Sid: 12) Server -> Client : 4356 bytes  (Service=HTTP)
+[Network Analyzer (14a8:2534)]   (Sid: 11) Server -> Client : 1452 bytes  (Service=HTTP)
+[Network Analyzer (14a8:2534)]   (Sid: 12) Server -> Client : 2904 bytes  (Service=HTTP)
+[Network Analyzer (14a8:2534)]   (Sid: 12) Server -> Client : 4356 bytes  (Service=HTTP)
+[Network Analyzer (14a8:2534)]   (Sid: 12) Server -> Client : 4356 bytes  (Service=HTTP)
+[Network Analyzer (14a8:2534)]   (Sid: 12) Server -> Client : 5808 bytes  (Service=HTTP)
+[Network Analyzer (14a8:2534)]   (Sid: 12) Server -> Client : 2904 bytes  (Service=HTTP)
+[Network Analyzer (14a8:2534)]   (Sid: 12) Server -> Client : 5710 bytes  (Service=HTTP)
+[Network Analyzer (14a8:2534)]   (Sid:  6) Server -> Client : 1452 bytes  (Service=HTTP)
+[Network Analyzer (14a8:2534)]   (Sid:  6) Server -> Client : 4356 bytes  (Service=HTTP)
+[Network Analyzer (14a8:2534)]   (Sid:  6) Server -> Client : 2904 bytes  (Service=HTTP)
+[Network Analyzer (14a8:2534)]   (Sid:  6) Server -> Client : 1452 bytes  (Service=HTTP)
+[Network Analyzer (14a8:2534)]   (Sid:  6) Server -> Client : 1452 bytes  (Service=HTTP)
+[Network Analyzer (14a8:2534)]   (Sid:  6) Server -> Client : 1452 bytes  (Service=HTTP)
+[Network Analyzer (14a8:2534)]   (Sid:  6) Server -> Client : 1452 bytes  (Service=HTTP)
+[Network Analyzer (14a8:2534)]   (Sid:  6) Server -> Client : 1452 bytes  (Service=HTTP)
+[Network Analyzer (14a8:2534)]   (Sid:  6) Server -> Client : 2904 bytes  (Service=HTTP)
+[Network Analyzer (14a8:2534)]   (Sid:  6) Server -> Client : 4356 bytes  (Service=HTTP)
+[Network Analyzer (14a8:2534)]   (Sid:  6) Server -> Client : 2904 bytes  (Service=HTTP)
+[Network Analyzer (14a8:2534)]   (Sid:  6) Server -> Client : 1452 bytes  (Service=HTTP)
+[Network Analyzer (14a8:2534)]   (Sid:  6) Server -> Client : 4356 bytes  (Service=HTTP)
+[Network Analyzer (14a8:2534)]   (Sid:  6) Server -> Client : 11616 bytes  (Service=HTTP)
+[Network Analyzer (14a8:2534)]   (Sid:  6) Server -> Client : 1253 bytes  (Service=HTTP)
+[Network Analyzer (14a8:2534)]   (Sid: 11) Server -> Client : 16384 bytes  (Service=HTTP)
+[Network Analyzer (14a8:2534)]   (Sid: 11) Server -> Client : 5396 bytes  (Service=HTTP)
+[Network Analyzer (14a8:2534)]   (Sid: 11) Server -> Client : 4356 bytes  (Service=HTTP)
+[Network Analyzer (14a8:2534)]   (Sid: 11) Server -> Client : 1452 bytes  (Service=HTTP)
+[Network Analyzer (14a8:2534)]   (Sid: 11) Server -> Client : 5808 bytes  (Service=HTTP)
+[Network Analyzer (14a8:2534)]   (Sid: 11) Server -> Client : 10164 bytes  (Service=HTTP)
+[Network Analyzer (14a8:2534)]   (Sid: 11) Server -> Client : 5808 bytes  (Service=HTTP)
+[Network Analyzer (14a8:2534)]   (Sid: 11) Server -> Client : 7260 bytes  (Service=HTTP)
+[Network Analyzer (14a8:2534)]   (Sid: 11) Server -> Client : 5808 bytes  (Service=HTTP)
+[Network Analyzer (14a8:2534)]   (Sid: 11) Server -> Client : 7260 bytes  (Service=HTTP)
+[Network Analyzer (14a8:2534)]   (Sid: 11) Server -> Client : 5808 bytes  (Service=HTTP)
+[Network Analyzer (14a8:2534)]   (Sid: 11) Server -> Client : 4344 bytes  (Service=HTTP)
+[Network Analyzer (14a8:2534)]   (Sid: 18) Connection Terminated (by Client)
+[Web Request      (14a8:2534)] "GET /sgfm/SGFM/contents/images/uploads/2016/02/56bc4e7e806e8ba26b5e66ed.jpg"   
+[Network Analyzer (14a8:2534)]   (Sid: 15) Client -> Server @ : 395 bytes (Service=HTTP)
+[Web Request      (14a8:2534)] "GET /sgfm/SGFM/contents/images/uploads/2016/02/56bc565e387d34cf6bd2ee65.jpg"   
+[Network Analyzer (14a8:2534)]   (Sid: 11) Client -> Server @ : 395 bytes (Service=HTTP)
+[Web Request      (14a8:2534)] "GET /sgfm/SGFM/contents/images/uploads/2016/02/56bc4e6c781d259d6b5b3634.jpg"   
+[Network Analyzer (14a8:2534)]   (Sid: 12) Client -> Server @ : 395 bytes (Service=HTTP)
+[Web Request      (14a8:2534)] "GET /sgfm/SGFM/contents/images/uploads/2016/02/56bc567b387d34cf6bd2ee66.jpg"   
+[Network Analyzer (14a8:2534)]   (Sid:  6) Client -> Server @ : 395 bytes (Service=HTTP)
+[Web Request      (14a8:2534)] "GET /sgfm/SGFM/contents/images/uploads/2016/02/56bc4e90806e8ba26b5e66ee.jpg"   
+[Network Analyzer (14a8:2534)]   (Sid: 14) Client -> Server @ : 395 bytes (Service=HTTP)
+[Web Request      (14a8:2534)] "GET /sgfm/SGFM/contents/images/uploads/2016/02/56ba15144b0e71c66be4f4c0.jpg"   
+[Network Analyzer (14a8:2534)]   (Sid: 13) Client -> Server @ : 395 bytes (Service=HTTP)
+[Network Analyzer (14a8:257c)] Address lookup for degeneffe = 192.168.59.3
+[Network Analyzer (14a8:2534)]   (Sid: 15) Server -> Client : 1452 bytes  (Service=HTTP)
+[Network Analyzer (14a8:2534)]   (Sid: 15) Server -> Client : 1452 bytes  (Service=HTTP)
+[Network Analyzer (14a8:2534)]   (Sid: 15) Server -> Client : 4356 bytes  (Service=HTTP)
+[Network Analyzer (14a8:2534)]   (Sid: 15) Server -> Client : 1452 bytes  (Service=HTTP)
+[Network Analyzer (14a8:2534)]   (Sid: 15) Server -> Client : 1452 bytes  (Service=HTTP)
+[Network Analyzer (14a8:2534)]   (Sid: 15) Server -> Client : 1452 bytes  (Service=HTTP)
+[Network Analyzer (14a8:2534)]   (Sid: 15) Server -> Client : 1452 bytes  (Service=HTTP)
+[Network Analyzer (14a8:2534)]   (Sid: 15) Server -> Client : 1452 bytes  (Service=HTTP)
+[Network Analyzer (14a8:2534)]   (Sid: 11) Server -> Client : 16384 bytes  (Service=HTTP)
+[Network Analyzer (14a8:2534)]   (Sid: 15) Server -> Client : 8712 bytes  (Service=HTTP)
+[Network Analyzer (14a8:2534)]   (Sid:  6) Server -> Client : 5808 bytes  (Service=HTTP)
+[Network Analyzer (14a8:2534)]   (Sid: 11) Server -> Client : 16384 bytes  (Service=HTTP)
+[Network Analyzer (14a8:2534)]   (Sid: 12) Server -> Client : 16384 bytes  (Service=HTTP)
+[Network Analyzer (14a8:2534)]   (Sid:  6) Server -> Client : 7260 bytes  (Service=HTTP)
+[Network Analyzer (14a8:2534)]   (Sid: 11) Server -> Client : 12244 bytes  (Service=HTTP)
+[Network Analyzer (14a8:2534)]   (Sid: 12) Server -> Client : 6848 bytes  (Service=HTTP)
+[Network Analyzer (14a8:2534)]   (Sid:  6) Server -> Client : 5808 bytes  (Service=HTTP)
+[Network Analyzer (14a8:2534)]   (Sid:  6) Server -> Client : 1452 bytes  (Service=HTTP)
+[Network Analyzer (14a8:2534)]   (Sid:  6) Server -> Client : 2904 bytes  (Service=HTTP)
+[Network Analyzer (14a8:2534)]   (Sid:  6) Server -> Client : 5808 bytes  (Service=HTTP)
+[Network Analyzer (14a8:2534)]   (Sid:  6) Server -> Client : 1452 bytes  (Service=HTTP)
+[Network Analyzer (14a8:2534)]   (Sid:  6) Server -> Client : 10164 bytes  (Service=HTTP)
+[Network Analyzer (14a8:2534)]   (Sid:  6) Server -> Client : 1452 bytes  (Service=HTTP)
+[Network Analyzer (14a8:2534)]   (Sid:  6) Server -> Client : 7260 bytes  (Service=HTTP)
+[Network Analyzer (14a8:2534)]   (Sid: 14) Server -> Client : 8712 bytes  (Service=HTTP)
+[Network Analyzer (14a8:2534)]   (Sid: 14) Server -> Client : 14520 bytes  (Service=HTTP)
+[Network Analyzer (14a8:2534)]   (Sid: 13) Server -> Client : 1452 bytes  (Service=HTTP)
+[Network Analyzer (14a8:2534)]   (Sid: 13) Server -> Client : 14520 bytes  (Service=HTTP)
+[Network Analyzer (14a8:2534)]   (Sid: 13) Server -> Client : 4356 bytes  (Service=HTTP)
+[Network Analyzer (14a8:2534)]   (Sid: 13) Server -> Client : 2904 bytes  (Service=HTTP)
+[Network Analyzer (14a8:2534)]   (Sid: 15) Server -> Client : 4356 bytes  (Service=HTTP)
+[Network Analyzer (14a8:2534)]   (Sid: 15) Server -> Client : 7260 bytes  (Service=HTTP)
+[Network Analyzer (14a8:257c)] Request Connection: Remote Server @ 195.53.101.72:80   (Service=)  (Sid= 21)  PROXIED!
+[Network Analyzer (14a8:2534)]   (Sid: 15) Server -> Client : 8712 bytes  (Service=HTTP)
+[Network Analyzer (14a8:2534)]   (Sid: 15) Server -> Client : 11616 bytes  (Service=HTTP)
+[Network Analyzer (14a8:2534)]   (Sid: 15) Server -> Client : 7260 bytes  (Service=HTTP)
+[Network Analyzer (14a8:2534)]   (Sid: 15) Server -> Client : 4458 bytes  (Service=HTTP)
+[Network Analyzer (14a8:2534)]   (Sid: 12) Server -> Client : 7260 bytes  (Service=HTTP)
+[Network Analyzer (14a8:2534)]   (Sid: 12) Server -> Client : 7260 bytes  (Service=HTTP)
+[Network Analyzer (14a8:2534)]   (Sid: 12) Server -> Client : 7260 bytes  (Service=HTTP)
+[Network Analyzer (14a8:2534)]   (Sid: 12) Server -> Client : 2904 bytes  (Service=HTTP)
+[Web Request      (14a8:2534)] "GET /ecommerce/session/cart?scopes=items%2CdataLayer%2CshippingPrice"   
+[Network Analyzer (14a8:2534)]   (Sid: 21) Client -> Server @ : 434 bytes (Service=HTTP)
+[Network Analyzer (14a8:2534)]   (Sid: 11) Server -> Client : 5808 bytes  (Service=HTTP)
+[Network Analyzer (14a8:2534)]   (Sid: 12) Server -> Client : 4295 bytes  (Service=HTTP)
+[Network Analyzer (14a8:2534)]   (Sid: 11) Server -> Client : 1452 bytes  (Service=HTTP)
+[Web Request      (14a8:2534)] "GET /sgfm/SGFM/contents/images/uploads/2016/02/56ba15264b0e71c66be4f4c1.jpg"   
+[Network Analyzer (14a8:2534)]   (Sid: 15) Client -> Server @ : 395 bytes (Service=HTTP)
+[Network Analyzer (14a8:2534)]   (Sid: 11) Server -> Client : 11616 bytes  (Service=HTTP)
+[Network Analyzer (14a8:2534)]   (Sid: 21) Connection Terminated (by Client)
+[Network Analyzer (14a8:2534)]   (Sid:  6) Server -> Client : 4356 bytes  (Service=HTTP)
+[Network Analyzer (14a8:2534)]   (Sid: 11) Server -> Client : 7768 bytes  (Service=HTTP)
+[Network Analyzer (14a8:2534)]   (Sid: 13) Server -> Client : 1452 bytes  (Service=HTTP)
+[Network Analyzer (14a8:2534)]   (Sid: 14) Server -> Client : 10164 bytes  (Service=HTTP)
+[Network Analyzer (14a8:2534)]   (Sid:  6) Server -> Client : 5178 bytes  (Service=HTTP)
+[Web Request      (14a8:2534)] "GET /sgfm/SGFM/contents/images/uploads/2016/02/56bb74da32f51fbd6b2ecfcd.jpg"   
+[Network Analyzer (14a8:2534)]   (Sid: 12) Client -> Server @ : 395 bytes (Service=HTTP)
+[Network Analyzer (14a8:2534)]   (Sid: 14) Server -> Client : 7260 bytes  (Service=HTTP)
+[Web Request      (14a8:2534)] "GET /sgfm/SGFM/contents/images/uploads/2016/02/56bb19ba806e8ba26b5e6661.jpg"   
+[Network Analyzer (14a8:2534)]   (Sid: 11) Client -> Server @ : 395 bytes (Service=HTTP)
+[Web Request      (14a8:2534)] "GET /sgfm/SGFM/contents/images/uploads/2016/02/56bcab5632f51fbd6b2ed016.jpg"   
+[Network Analyzer (14a8:2534)]   (Sid:  6) Client -> Server @ : 395 bytes (Service=HTTP)
+[Network Analyzer (14a8:2534)]   (Sid: 14) Server -> Client : 1452 bytes  (Service=HTTP)
+[Network Analyzer (14a8:2534)]   (Sid: 14) Server -> Client : 4356 bytes  (Service=HTTP)
+[Network Analyzer (14a8:2534)]   (Sid: 14) Server -> Client : 2904 bytes  (Service=HTTP)
+[Network Analyzer (14a8:2534)]   (Sid: 14) Server -> Client : 15972 bytes  (Service=HTTP)
+[Network Analyzer (14a8:2534)]   (Sid: 14) Server -> Client : 1452 bytes  (Service=HTTP)
+[Network Analyzer (14a8:2534)]   (Sid: 14) Server -> Client : 2904 bytes  (Service=HTTP)
+[Network Analyzer (14a8:2534)]   (Sid: 13) Server -> Client : 1452 bytes  (Service=HTTP)
+[Network Analyzer (14a8:2534)]   (Sid: 13) Server -> Client : 13068 bytes  (Service=HTTP)
+[Network Analyzer (14a8:2534)]   (Sid: 13) Server -> Client : 1452 bytes  (Service=HTTP)
+[Network Analyzer (14a8:2534)]   (Sid: 13) Server -> Client : 16384 bytes  (Service=HTTP)
+[Network Analyzer (14a8:2534)]   (Sid: 13) Server -> Client : 12656 bytes  (Service=HTTP)
+[Network Analyzer (14a8:2534)]   (Sid: 13) Connection Terminated (by Client)
+[Network Analyzer (14a8:2534)]   (Sid: 15) Connection Terminated (by Client)
+[Network Analyzer (14a8:2534)]   (Sid:  6) Connection Terminated (by Client)
+[Network Analyzer (14a8:2534)]   (Sid: 11) Connection Terminated (by Client)
+[Network Analyzer (14a8:2534)]   (Sid: 12) Connection Terminated (by Client)
+[Network Analyzer (14a8:2534)]   (Sid: 14) Connection Terminated (by Client)
+[Network Analyzer (14a8:2534)]   (Sid: 19) Connection Terminated (by Client)
